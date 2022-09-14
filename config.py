@@ -2,6 +2,7 @@ import os
 import datetime
 import great_expectations as ge
 
+# New environment variables to be added
 
 # get data context from yaml file
 context = ge.data_context.DataContext()
